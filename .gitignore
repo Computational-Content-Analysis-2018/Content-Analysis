@@ -1,3 +1,6 @@
+*.mm
+*.mm.index
+
 launch-nb.sh
 nb_sessions/
 
