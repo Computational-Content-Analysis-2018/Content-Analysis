@@ -1,3 +1,15 @@
+data/scikit_learn_data/*
+
+data/corpora/*
+data/stemmers/*
+data/models/*
+data/help/*
+data/chunkers/*
+data/misc/*
+data/sentiment/*
+data/grammars/*
+data/taggers/*
+data/tokenizers/*
 *.mm
 *.mm.index
 
