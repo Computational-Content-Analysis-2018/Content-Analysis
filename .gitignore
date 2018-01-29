@@ -1,4 +1,5 @@
 data/scikit_learn_data/*
+data/1992embeddings_hs_new3.sg
 
 data/corpora/*
 data/stemmers/*
