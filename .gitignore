@@ -1,3 +1,9 @@
+data/SampleJobAds.csv
+data/resumeAll.*
+data/ASCO_abstracts.csv
+data/supplement.zip
+data/supplement/
+
 data/scikit_learn_data/*
 data/1992embeddings_hs_new3.sg
 
