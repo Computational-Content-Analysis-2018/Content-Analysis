@@ -1,3 +1,5 @@
+*.wav
+
 stanford-NLP/
 
 data/SampleJobAds.csv
